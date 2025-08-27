@@ -1,4 +1,5 @@
 // gcc client.c -o client
+// check
 #include <arpa/inet.h> // Library for inet_pton(), convert IPv4 and IPv6 addresses from text to binary
 #include <stdio.h> // Standard I/O library
 #include <string.h> // String operations
